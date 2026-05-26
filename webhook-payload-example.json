@@ -1,0 +1,11 @@
+{
+  "command_id": "CMD_20260520_001",
+  "action": "ALERT",
+  "severity": "HIGH",
+  "reason": "PAYMENT step failure - critical revenue impact",
+  "checkout_step": "PAYMENT",
+  "cart_value": 1250.00,
+  "device": "MOBILE",
+  "baseline_rate": 0.02,
+  "timestamp": "2026-05-20 09:15:00"
+}
